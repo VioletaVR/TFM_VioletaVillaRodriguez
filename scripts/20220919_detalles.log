@@ -1,0 +1,15 @@
+2022-09-19 15:54:20.735892 inicio peticiones 7 películas
+	 0  https://api.themoviedb.org/3/movie/800939?api_key=1d1ad12e8f3049c44965574396bfe9e2&append_to_response=credits,keywords
+	 1  https://api.themoviedb.org/3/movie/760161?api_key=1d1ad12e8f3049c44965574396bfe9e2&append_to_response=credits,keywords
+	 2  https://api.themoviedb.org/3/movie/793937?api_key=1d1ad12e8f3049c44965574396bfe9e2&append_to_response=credits,keywords
+	 3  https://api.themoviedb.org/3/movie/756603?api_key=1d1ad12e8f3049c44965574396bfe9e2&append_to_response=credits,keywords
+	 4  https://api.themoviedb.org/3/movie/496331?api_key=1d1ad12e8f3049c44965574396bfe9e2&append_to_response=credits,keywords
+	 5  https://api.themoviedb.org/3/movie/960875?api_key=1d1ad12e8f3049c44965574396bfe9e2&append_to_response=credits,keywords
+	 6  https://api.themoviedb.org/3/movie/924125?api_key=1d1ad12e8f3049c44965574396bfe9e2&append_to_response=credits,keywords
+fin peticiones películas: (0, 0)  
+2022-09-19 15:54:21.142138 inicio extraer colecciones 
+2022-09-19 15:54:21.313331 inicio extraer géneros 
+2022-09-19 15:54:21.648317 inicio extraer productoras 
+2022-09-19 15:54:21.961215 inicio extraer creditos 
+2022-09-19 15:54:22.308327 inicio extraer keywords 
+2022-09-19 15:54:22.890542 FIN 
